@@ -21,11 +21,14 @@ docs
 ## development
 eeshvardasikcm-workflow-patch development
 
+### eeshvardasikcm / seasons
+1.0 season
+
 ### patch-x
-Minor x #14: patch-x
+- Minor x #14: patch-x
 
 ### 0.1.7
-https://github.com/eeshvardasikcm-workflow/version-support/milestone/1
+- https://github.com/eeshvardasikcm-workflow/version-support/milestone/1
 
 ### eeshvardasikcm-workflow-patch-4
 - Update CMakeLists.txt #5
