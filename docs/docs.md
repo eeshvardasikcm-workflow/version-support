@@ -21,8 +21,15 @@ docs
 ## development
 eeshvardasikcm-workflow-patch development
 
-### 0.1.7
-https://github.com/eeshvardasikcm-workflow/version-support/milestone/1
+### minor 0.2.x
+- 0.2.10+
+- 0.1.7
+
+### minor 0.1.x
+- 0.1.x
+
+### pre-release 0.1.7 (non-production)
+- https://github.com/eeshvardasikcm-workflow/version-support/milestone/1
 
 ### eeshvardasikcm-workflow-patch-4
 - Update CMakeLists.txt #5
