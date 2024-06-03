@@ -14,4 +14,4 @@
 
 cmake_minimum_required(VERSION 3.29.3)
 project(version-support)
-add_executable(version-support.cpp)
+add_executable(version-support version-support.cpp)
