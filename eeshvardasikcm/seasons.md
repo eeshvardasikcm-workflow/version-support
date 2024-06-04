@@ -15,24 +15,8 @@ limitations under the License.
 [NOTICE](/NOTICE)
 [LICENSE](/LICENSE)
 
-# docs eeshvardasikcm-workflow / version-support
-docs
+# eeshvardasikcm / seasons
+eeshvardasikcm-seasons
 
-## release 1.0
-[release 1.0](https://github.com/eeshvardasikcm-workflow/version-support/releases/tag/1.0)
-
-## development
-eeshvardasikcm-workflow-patch development
-
-### patch-x
-Minor x #14: patch-x
-
-### 0.1.7
-https://github.com/eeshvardasikcm-workflow/version-support/milestone/1
-
-### eeshvardasikcm-workflow-patch-4
-- Update CMakeLists.txt #5
-
-### eeshvardasikcm-workflow-patch-3
-- Create cmake-multi-platform.yml #1
-- Create cmake-multi-platform.yml #4
+## 1.0 season
+1.0 season

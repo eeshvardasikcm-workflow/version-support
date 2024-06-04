@@ -1,5 +1,5 @@
 Copyright 2024 EeshvarDasIKCM (Erik Douglas Ward, eeshvardasikcm)
-
+ 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
@@ -12,27 +12,8 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-[NOTICE](/NOTICE)
-[LICENSE](/LICENSE)
+# eeshvardasikcm-workflow / version-support / protobuf / README
+protobuf / README
 
-# docs eeshvardasikcm-workflow / version-support
-docs
-
-## release 1.0
-[release 1.0](https://github.com/eeshvardasikcm-workflow/version-support/releases/tag/1.0)
-
-## development
-eeshvardasikcm-workflow-patch development
-
-### patch-x
-Minor x #14: patch-x
-
-### 0.1.7
-https://github.com/eeshvardasikcm-workflow/version-support/milestone/1
-
-### eeshvardasikcm-workflow-patch-4
-- Update CMakeLists.txt #5
-
-### eeshvardasikcm-workflow-patch-3
-- Create cmake-multi-platform.yml #1
-- Create cmake-multi-platform.yml #4
+## protoc_static.md
+https://github.com/eeshvardasikcm-workflow/version-support/blob/eeshvardasikcm-workflow-patch-15/protobuf/protoc_static.md
