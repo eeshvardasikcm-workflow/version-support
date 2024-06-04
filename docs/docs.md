@@ -18,6 +18,9 @@ limitations under the License.
 # docs eeshvardasikcm-workflow / version-support
 docs
 
+## release 1.0
+[release 1.0](https://github.com/eeshvardasikcm-workflow/version-support/releases/tag/1.0)
+
 ## development
 eeshvardasikcm-workflow-patch development
 
