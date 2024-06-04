@@ -17,3 +17,6 @@ limitations under the License.
 
 # eeshvardasikcm-workflow / version-support
 [protobuf](protobuf/)
+
+## pyTBD WHERE necessary
+[Python 3.12.3](https://www.python.org/downloads/release/python-3123/)
