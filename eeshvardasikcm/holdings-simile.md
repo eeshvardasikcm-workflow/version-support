@@ -17,3 +17,10 @@ limitations under the License.
 
 # eeshvardasikcm / holdings-simile
 `holdings-simile` 0.5 beta
+
+## automation
+<p>automation prevents departing from DevOps and SRE guidelines.
+deveoloping the automation may replace the process needed
+to be done here. This development is not easy and has no
+expected completion time. It appears best to follow
+DevOps and SRE guidelines.</p>
