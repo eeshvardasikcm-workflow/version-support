@@ -27,3 +27,15 @@ deveoloping the automation may replace the process needed
 to be done here. This development is not easy and has no
 expected completion time. It appears best to follow
 DevOps and SRE guidelines.</p>
+
+## `team` and `role` restrictions
+<p>EeshvarDasIKCM (Erik Douglas Ward, eeshvardasikcm) is
+the only person contributing anything at all to 
+EeshvarDasIKCM. EeshvarDasIKCM is a sole proprietership
+copmany in Nevada. Erik Douglas Ward is the sole
+proprioter of EeshvarDasIKCM.
+
+EeshvarDasIKCM has not entered any royalties agreemenst
+with anyone. The software publishing that EeshvarDasIKCM
+is doing is completely 100% EeshvarDasIKCM with zero
+royalties owed to anyone.</p>
