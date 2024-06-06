@@ -12,14 +12,5 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-[NOTICE](NOTICE)
-[LICENSE](LICENSE)
-
-# eeshvardasikcm-workflow / version-support
-[docs](/docs/docs.md)
-
-## protobuf
-[protobuf](protobuf/)
-
-## pyTBD WHERE necessary
-[Python 3.12.3](https://www.python.org/downloads/release/python-3123/)
+- ```cmake . -DCMAKE_CXX_STANDARD=14```
+- ```cmake --build .```
