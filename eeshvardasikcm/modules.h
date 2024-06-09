@@ -27,11 +27,14 @@ namespace a-beginning-point {class version {protected int p = 61
     ;}
   
   ;class module-3 : version {p = 25 
-    
+    private int game=1;
+      
     ;}
 
   ;class module-4 : version {p = 84
-    private int q=8
+    private int q=8;
+    private int game=2;
+    private int humanChess=1;
 
     ;}
 
