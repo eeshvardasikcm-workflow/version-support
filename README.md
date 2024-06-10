@@ -23,3 +23,8 @@ limitations under the License.
 
 ## pyTBD WHERE necessary
 [Python 3.12.3](https://www.python.org/downloads/release/python-3123/)
+
+### python
+- https://github.com/python/mypy/blob/8dd268ffd84ccf549b3aa9105dd35766a899b2bd/CREDITS#L10
+- https://github.com/python/peps/blob/7afb2339fe4de3fe8308ff9660bb43e90fe57a6f/peps/pep-8011.rst#L63
+- https://github.com/python/python-docs-uk/blob/fb0551bbd905a216ede92994d68e7f7b881f2f46/TEAM.md?plain=1#L4
