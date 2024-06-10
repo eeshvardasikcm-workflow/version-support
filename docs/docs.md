@@ -24,6 +24,9 @@ docs
 ## development
 eeshvardasikcm-workflow-patch development
 
+### patch-x
+Minor x #14: patch-x
+
 ### eeshvardasikcm / seasons
 1.0 season
 
