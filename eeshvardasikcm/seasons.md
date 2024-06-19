@@ -18,6 +18,7 @@ limitations under the License.
 # eeshvardasikcm / seasons
 eeshvardasikcm-seasons
 
-## 1.0 season
+## 1.x season
 - [1.0](https://github.com/eeshvardasikcm-workflow/version-support/releases/tag/1.0) season
 - https://github.com/eeshvardasikcm/recipes
+- AI summer study (detailed)
